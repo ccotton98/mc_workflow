@@ -1,0 +1,122 @@
+{
+    "jobs": [
+        {
+            "command": ["/u/group/c-xem2/cmorean/monteCarlo/f2/f2_mc_02_09_2022/farmSub50M.sh hms_mc_c21deg5p7 10"],
+            "cpuCores": 10,
+            "disk_bytes": 3000000000,
+            "name": "MC_SINGLE_ARM_F2_hms_mc_c21deg5p7",
+            "account": "hallc",
+            "ram_bytes": 6000000000,
+            "shell": "/usr/bin/csh",
+            "stderr": "/farm_out/cmorean/mc-single-arm/STDERR/MC_SINGLE_ARM_F2_hms_mc_c21deg5p7.err",
+            "stdout": "/farm_out/cmorean/mc-single-arm/STDOUT/MC_SINGLE_ARM_F2_hms_mc_c21deg5p7.out",
+            "timeSecs": 14400,
+            "partition": "production"
+        },
+        {
+            "command": ["/u/group/c-xem2/cmorean/monteCarlo/f2/f2_mc_02_09_2022/farmSub50M.sh hms_mc_c21deg5p1 10"],
+            "cpuCores": 10,
+            "disk_bytes": 3000000000,
+            "name": "MC_SINGLE_ARM_F2_hms_mc_c21deg5p1",
+            "account": "hallc",
+            "ram_bytes": 6000000000,
+            "shell": "/usr/bin/csh",
+            "stderr": "/farm_out/cmorean/mc-single-arm/STDERR/MC_SINGLE_ARM_F2_hms_mc_c21deg5p1.err",
+            "stdout": "/farm_out/cmorean/mc-single-arm/STDOUT/MC_SINGLE_ARM_F2_hms_mc_c21deg5p1.out",
+            "timeSecs": 14400,
+            "partition": "production"
+        },
+        {
+            "command": ["/u/group/c-xem2/cmorean/monteCarlo/f2/f2_mc_02_09_2022/farmSub50M.sh hms_mc_c21deg4p5 10"],
+            "cpuCores": 10,
+            "disk_bytes": 3000000000,
+            "name": "MC_SINGLE_ARM_F2_hms_mc_c21deg4p5",
+            "account": "hallc",
+            "ram_bytes": 6000000000,
+            "shell": "/usr/bin/csh",
+            "stderr": "/farm_out/cmorean/mc-single-arm/STDERR/MC_SINGLE_ARM_F2_hms_mc_c21deg4p5.err",
+            "stdout": "/farm_out/cmorean/mc-single-arm/STDOUT/MC_SINGLE_ARM_F2_hms_mc_c21deg4p5.out",
+            "timeSecs": 14400,
+            "partition": "production"
+        },
+        {
+            "command": ["/u/group/c-xem2/cmorean/monteCarlo/f2/f2_mc_02_09_2022/farmSub50M.sh hms_mc_c21deg4p0 10"],
+            "cpuCores": 10,
+            "disk_bytes": 3000000000,
+            "name": "MC_SINGLE_ARM_F2_hms_mc_c21deg4p0",
+            "account": "hallc",
+            "ram_bytes": 6000000000,
+            "shell": "/usr/bin/csh",
+            "stderr": "/farm_out/cmorean/mc-single-arm/STDERR/MC_SINGLE_ARM_F2_hms_mc_c21deg4p0.err",
+            "stdout": "/farm_out/cmorean/mc-single-arm/STDOUT/MC_SINGLE_ARM_F2_hms_mc_c21deg4p0.out",
+            "timeSecs": 14400,
+            "partition": "production"
+        },
+        {
+            "command": ["/u/group/c-xem2/cmorean/monteCarlo/f2/f2_mc_02_09_2022/farmSub50M.sh hms_mc_c21deg3p3 10"],
+            "cpuCores": 10,
+            "disk_bytes": 3000000000,
+            "name": "MC_SINGLE_ARM_F2_hms_mc_c21deg3p3",
+            "account": "hallc",
+            "ram_bytes": 6000000000,
+            "shell": "/usr/bin/csh",
+            "stderr": "/farm_out/cmorean/mc-single-arm/STDERR/MC_SINGLE_ARM_F2_hms_mc_c21deg3p3.err",
+            "stdout": "/farm_out/cmorean/mc-single-arm/STDOUT/MC_SINGLE_ARM_F2_hms_mc_c21deg3p3.out",
+            "timeSecs": 14400,
+            "partition": "production"
+        },
+        {
+            "command": ["/u/group/c-xem2/cmorean/monteCarlo/f2/f2_mc_02_09_2022/farmSub50M.sh hms_mc_c59deg1p5 10"],
+            "cpuCores": 10,
+            "disk_bytes": 3000000000,
+            "name": "MC_SINGLE_ARM_F2_hms_mc_c59deg1p5",
+            "account": "hallc",
+            "ram_bytes": 6000000000,
+            "shell": "/usr/bin/csh",
+            "stderr": "/farm_out/cmorean/mc-single-arm/STDERR/MC_SINGLE_ARM_F2_hms_mc_c59deg1p5.err",
+            "stdout": "/farm_out/cmorean/mc-single-arm/STDOUT/MC_SINGLE_ARM_F2_hms_mc_c59deg1p5.out",
+            "timeSecs": 14400,
+            "partition": "production"
+        },
+        {
+            "command": ["/u/group/c-xem2/cmorean/monteCarlo/f2/f2_mc_02_09_2022/farmSub50M.sh hms_mc_c59deg1p4 10"],
+            "cpuCores": 10,
+            "disk_bytes": 3000000000,
+            "name": "MC_SINGLE_ARM_F2_hms_mc_c59deg1p4",
+            "account": "hallc",
+            "ram_bytes": 6000000000,
+            "shell": "/usr/bin/csh",
+            "stderr": "/farm_out/cmorean/mc-single-arm/STDERR/MC_SINGLE_ARM_F2_hms_mc_c59deg1p4.err",
+            "stdout": "/farm_out/cmorean/mc-single-arm/STDOUT/MC_SINGLE_ARM_F2_hms_mc_c59deg1p4.out",
+            "timeSecs": 14400,
+            "partition": "production"
+        },
+        {
+            "command": ["/u/group/c-xem2/cmorean/monteCarlo/f2/f2_mc_02_09_2022/farmSub50M.sh hms_mc_c59deg1p2 10"],
+            "cpuCores": 10,
+            "disk_bytes": 3000000000,
+            "name": "MC_SINGLE_ARM_F2_hms_mc_c59deg1p2",
+            "account": "hallc",
+            "ram_bytes": 6000000000,
+            "shell": "/usr/bin/csh",
+            "stderr": "/farm_out/cmorean/mc-single-arm/STDERR/MC_SINGLE_ARM_F2_hms_mc_c59deg1p2.err",
+            "stdout": "/farm_out/cmorean/mc-single-arm/STDOUT/MC_SINGLE_ARM_F2_hms_mc_c59deg1p2.out",
+            "timeSecs": 14400,
+            "partition": "production"
+        },
+        {
+            "command": ["/u/group/c-xem2/cmorean/monteCarlo/f2/f2_mc_02_09_2022/farmSub50M.sh hms_mc_c59deg1p1 10"],
+            "cpuCores": 10,
+            "disk_bytes": 3000000000,
+            "name": "MC_SINGLE_ARM_F2_hms_mc_c59deg1p1",
+            "account": "hallc",
+            "ram_bytes": 6000000000,
+            "shell": "/usr/bin/csh",
+            "stderr": "/farm_out/cmorean/mc-single-arm/STDERR/MC_SINGLE_ARM_F2_hms_mc_c59deg1p1.err",
+            "stdout": "/farm_out/cmorean/mc-single-arm/STDOUT/MC_SINGLE_ARM_F2_hms_mc_c59deg1p1.out",
+            "timeSecs": 14400,
+            "partition": "production"
+        }
+    ],
+    "name": "MC_SINGLE_ARM_F2C_hms"
+}

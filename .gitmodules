@@ -1,0 +1,3 @@
+[submodule "mc-single-arm"]
+	path = mc-single-arm
+	url = git@github.com:mrcmor100/mc-single-arm.git
