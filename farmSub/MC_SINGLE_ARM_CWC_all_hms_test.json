@@ -1,0 +1,18 @@
+{
+    "jobs": [
+	    {
+            "command": ["/u/group/c-xem2/ccotton/mc_workflow/farmSub50M.sh hms_mc_ag_20degm6p6 10"],
+            "cpuCores": 10,
+            "disk_bytes": 3000000000,
+            "name": "MC_SINGLE_ARM_CWC_hms_mc_ag_20degm6p6",
+            "account": "hallc",
+            "ram_bytes": 6000000000,
+            "shell": "/usr/bin/csh",
+            "stderr": "/farm_out/ccotton/mc-single-arm/STDERR/MC_SINGLE_ARM_CWC_hms_mc_ag_20degm6p6.err",
+            "stdout": "/farm_out/ccotton/mc-single-arm/STDOUT/MC_SINGLE_ARM_CWC_hms_mc_ag_20degm6p6.out",
+            "timeSecs": 14400,
+            "partition": "production"
+        }
+    ],
+    "name": "MC_SINGLE_ARM_CWC_all_hms_test"
+}

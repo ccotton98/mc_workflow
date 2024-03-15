@@ -1,0 +1,26 @@
+#****  HMS RUNS *****
+#file             angle  p_cen beam x  tar z   spec y  spec x  targ    radlen
+#name             (deg)  (MeV) off(cm) off(cm) off(cm) off(cm) len(cm) (cm)
+hms_mc_dummy_up_20degm6p6   20.00  6600  0.00   -5.62   0.00   0.00   0.0860  8.896
+hms_mc_dummy_up_20degm5p878 20.00  5878  0.00   -5.62   0.00   0.00   0.0860  8.896
+hms_mc_dummy_up_20degm5p36  20.00  5360  0.00   -5.62   0.00   0.00   0.0860  8.896
+hms_mc_dummy_up_20degm4p78  20.00  4780  0.00   -5.62   0.00   0.00   0.0860  8.896
+hms_mc_dummy_up_20degm4p27  20.00  4270  0.00   -5.62   0.00   0.00   0.0860  8.896
+hms_mc_dummy_up_20degm3p81  20.00  3810  0.00   -5.62   0.00   0.00   0.0860  8.896
+hms_mc_dummy_up_20degm3p4   20.00  3400  0.00   -5.62   0.00   0.00   0.0860  8.896
+hms_mc_dummy_up_20degm3p04  20.00  3040  0.00   -5.62   0.00   0.00   0.0860  8.896
+hms_mc_dummy_up_20degm2p71  20.00  2710  0.00   -5.62   0.00   0.00   0.0860  8.896
+hms_mc_dummy_up_20degm2p42  20.00  2420  0.00   -5.62   0.00   0.00   0.0860  8.896
+
+#file             angle  p_cen beam x  tar z   spec y  spec x  targ    radlen
+#name             (deg)  (MeV) off(cm) off(cm) off(cm) off(cm) len(cm) (cm)
+hms_mc_dummy_down_20degm6p6   20.00  6600  0.00   4.68   0.00   0.00   0.0846  8.896
+hms_mc_dummy_down_20degm5p878 20.00  5878  0.00   4.68   0.00   0.00   0.0846  8.896
+hms_mc_dummy_down_20degm5p36  20.00  5360  0.00   4.68   0.00   0.00   0.0846  8.896
+hms_mc_dummy_down_20degm4p78  20.00  4780  0.00   4.68   0.00   0.00   0.0846  8.896
+hms_mc_dummy_down_20degm4p27  20.00  4270  0.00   4.68   0.00   0.00   0.0846  8.896
+hms_mc_dummy_down_20degm3p81  20.00  3810  0.00   4.68   0.00   0.00   0.0846  8.896
+hms_mc_dummy_down_20degm3p4   20.00  3400  0.00   4.68   0.00   0.00   0.0846  8.896
+hms_mc_dummy_down_20degm3p04  20.00  3040  0.00   4.68   0.00   0.00   0.0846  8.896
+hms_mc_dummy_down_20degm2p71  20.00  2710  0.00   4.68   0.00   0.00   0.0846  8.896
+hms_mc_dummy_down_20degm2p42  20.00  2420  0.00   4.68   0.00   0.00   0.0846  8.896

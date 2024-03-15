@@ -21,6 +21,7 @@ shms_mc_c25deg4p4 24.98 4325   0.1055	0.2123	-0.057 0.127   0.2373	19.32
 shms_mc_c25deg3p5 24.98 3441   0.1055	0.2123	-0.057 0.127   0.2373	19.32
 shms_mc_c25deg3p0 24.98 2949   0.1055	0.2123	-0.057 0.127   0.2373	19.32
 shms_mc_c25deg2p5 24.98 2458   0.1055	0.2123	-0.057 0.127   0.2373	19.32
+shms_mc_c8deg9p8  8.00  9800   0.0      0.0      0.0   0.0     0.2373   19.32
 #
 #file	  	  angle  p_cen beam x  tar z   spec y  spec x  targ    radlen
 #name             (deg)  (MeV) off(cm) off(cm) off(cm) off(cm) len(cm) (cm)

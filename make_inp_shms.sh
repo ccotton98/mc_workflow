@@ -1,4 +1,4 @@
-grep -v '^#' < kinematics_Deb_v2_shms.txt | { while read line; do 
+grep -v '^#' < kinematics_Burcu_v2_shms.txt | { while read line; do 
 	stringarr=($line)
  	echo ${stringarr[0]},${stringarr[1]},${stringarr[2]},${stringarr[3]},${stringarr[4]},${stringarr[5],${stringarr[6]},${stringarr[6]}}
 

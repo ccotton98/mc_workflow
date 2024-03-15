@@ -1,7 +1,7 @@
 #!/bin/csh 
 use root/6.10.02
 
-cd /u/group/c-xem2/cmorean/monteCarlo/f2/f2_mc_02_09_2022/mc-single-arm/
+cd /u/group/c-xem2/ccotton/mc_workflow/mc-single-arm/
 
 set i=0
 while ($i < $2)

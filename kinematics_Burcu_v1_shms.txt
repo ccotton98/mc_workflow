@@ -1,0 +1,10 @@
+#****  SHMS RUNS *****
+#file	  	  angle  p_cen beam x  tar z   spec y  spec x  targ    radlen
+#name             (deg)  (MeV) off(cm) off(cm) off(cm) off(cm) len(cm) (cm)
+shms_mc_c8deg9p8  8.00  9800  0.00   0.00   0.00   0.00   0.2373  19.32
+shms_mc_c8p5deg9p8  8.50  9800  0.00   0.00   0.00   0.00   0.2373  19.32
+#
+#file	  	  angle  p_cen beam x  tar z   spec y  spec x  targ    radlen
+#name             (deg)  (MeV) off(cm) off(cm) off(cm) off(cm) len(cm) (cm)
+shms_mc_d8deg9p8  8.00  9800  0.00   0.00   0.00   0.00   9.9682  769.1
+shms_mc_d8p5deg9p8  8.50  9800  0.00   0.00   0.00   0.00   9.9682  769.1
